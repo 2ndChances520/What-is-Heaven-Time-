@@ -9,7 +9,7 @@
 
 ## 🔗 Live Demo
 
-🌐 **[Click Here to View the Live Site](https://www.google.com/search?q=YOUR_LIVE_LINK_HERE)** *(Link coming soon)*
+🌐 **[Click Here to View the Live Site](https://2ndchances520.github.io/What-is-Heaven-Time-/)** 
 
 ---
 
@@ -87,14 +87,14 @@ Since this project is built as a single, self-contained web page, running it loc
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+git clone [https://github.com/2ndChances520/What-is-Heaven-Time-/]
 
 ```
 
 
 2. **Navigate to the directory:**
 ```bash
-cd YOUR-REPOSITORY-NAME
+cd What-is-Heaven-Time-/
 
 ```
 
